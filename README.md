@@ -20,11 +20,5 @@
 Adicionei este portfólio ao meu perfil do LinkedIn para demonstrar minhas habilidades.  
 🔗 https://www.linkedin.com/in/guilherme-guimaraes-soares-a38513365/
 
-## 🎥 Apresentação
-
-Em breve: vídeo apresentando os projetos e o portfólio (conforme solicitado na atividade).
-
----
-
 Desenvolvido por **Guilherme Soares**  
 Bootcamp I - 2025
